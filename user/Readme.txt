@@ -1,0 +1,1 @@
+Extract it into your Ryzom folder.
