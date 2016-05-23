@@ -1,6 +1,8 @@
 # syui_v3
 Ryzom Interface
 
-Extract the user folder into your Ryzom folder.
+WIN: Extract the user folder into your Ryzom folder.
 
-For OS X and Linux may need another path.
+OS X: Extract user folder into ~/Library/Application Support/Ryzom/
+
+Linux may need another path.
