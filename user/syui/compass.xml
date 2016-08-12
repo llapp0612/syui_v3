@@ -265,7 +265,7 @@
             fontsize="10"
             line_maxw="182"
             shadow="true"
-            hardtext="No File..." />
+            hardtext="uiNoFiles" />
     </group>
   </group>
   <tree node="mp3_player" />
@@ -733,7 +733,7 @@
             id="range"
             posref="BM MM"
             x="0"
-            y="16"
+            y="18"
             hardtext="uiRadarZoom0"
             shadow="true"
             color="255 255 255 255"

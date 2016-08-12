@@ -410,13 +410,8 @@ end
 --#############################
 if (package_path_native == nil) then
     package_path_native = package.path;
-
+    
     package.path = package.path .. ';./user/syui/?.lua';
-end
-
-function game:refresh(module)
-    package.loaded[module] = nil;
-    return require(module);
 end
 
 function isModuleAvailable(name)

@@ -142,7 +142,7 @@
             id="t"
             posref="TL TL"
             x="6"
-            y="-5"
+            y="-2"
             color="255 255 255 255"
             global_color="false"
             fontsize="11"
@@ -152,7 +152,7 @@
             id="max"
             posref="MR MR"
             x="-6" 
-            y="-4"
+            y="-2"
             color="255 255 255 255"
             shadow="true"
             global_color="false"
@@ -590,7 +590,7 @@
             inherit_gc_alpha="false" />
       <instance template="jauge_score"
                 id="jlife"
-                posparent="b_lif"
+				posparent="b_lif"
                 posref="TL TL"
                 color="255 93 38 255"
                 color_gray="160 42 5 255"
@@ -601,7 +601,7 @@
                 tooltip="uittGaugesHP" />
       <instance template="jauge_score"
                 id="jsap"
-                posparent="b_sap"
+				posparent="b_sap"
                 posref="TL TL"
                 color="100 255 40 255"
                 color_gray="100 141 3 255"
@@ -612,7 +612,7 @@
                 tooltip="uittGaugesSap" />
       <instance template="jauge_score"
                 id="jsta"
-                posparent="b_sta"
+				posparent="b_sta"
                 posref="TL TL"
                 color="255 37 254 255"
                 color_gray="151 50 114 255"
@@ -623,7 +623,7 @@
                 tooltip="uittGaugesSta" />
       <instance template="jauge_score"
                 id="jfoc"
-                posparent="b_foc"
+				posparent="b_foc"
                 posref="TL TL"
                 color="60 159 255 255"
                 color_gray="23 116 147 255"
