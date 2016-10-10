@@ -1,0 +1,10 @@
+<interface_config>
+
+    <command name="runShortcut" action="run_shortcut" params="$"/>
+    <command name="lua" action="lua" params="$"/>
+	
+	<command name="ah" action="lua" params="runAH(nil, &quot;$&quot;, &quot;+&quot;)" />
+    <command name="ah" action="lua" params="runAH(nil, &quot;$&quot;, &quot;&quot;)" />
+	
+	<command name="silent" action="emote" params="behav=$|nb=0|custom_phrase=none"/>
+</interface_config>
